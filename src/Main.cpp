@@ -6,7 +6,6 @@
  */
 
 // Name: Amansingh Bhatia
-// SID: 22207819
 // I hereby certify that all code in this submission was completed
 // by me and developed with the assistance of the AI tools listed
 // below:
