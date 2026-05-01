@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/amanbhatia/Desktop/uni_stuff/dsa/tutorial_2/DSA_2048_uniproject/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/DSA_2048_uniproject.dir/src/Main.cpp.o -c /Users/amanbhatia/Desktop/uni_stuff/dsa/tutorial_2/DSA_2048_uniproject/src/Main.cpp",
+  "file": "/Users/amanbhatia/Desktop/uni_stuff/dsa/tutorial_2/DSA_2048_uniproject/src/Main.cpp",
+  "output": "/Users/amanbhatia/Desktop/uni_stuff/dsa/tutorial_2/DSA_2048_uniproject/cmake-build-debug/CMakeFiles/DSA_2048_uniproject.dir/src/Main.cpp.o"
+}
+]
