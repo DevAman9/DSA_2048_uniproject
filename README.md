@@ -1,7 +1,7 @@
 # **2048 Game Solver**
 
 
-Note: I built the logic on this entirely from scratch for my Data Structure and Algorithms assignment. No AI tools were used to code this. It's just me, way too much coffee, and a lot of trial and error. I ended up getting a 95% on the face to face demonstration of this project.
+Note: I built the logic on this entirely from scratch for my Data Structure and Algorithms assignment. No AI tools were used to code this. It's just me, way too much coffee, and a lot of trial and error. I ended up getting a 95% for this project. 5% lost for not using a variable parameter for depth.
 
 This is a fully functional 2048 game built for the terminal.
 
