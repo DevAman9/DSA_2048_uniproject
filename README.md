@@ -10,7 +10,7 @@ This project uses Monte Carlo simulations, deterministic recursive tree searches
 
 The Progression 
 1. The Board & Human Player: 
-   Firstly the board rendering base code was already provided to us, but i still did some modifications on it but introducing grid pointers and writing the merge logic without triggering infinite loops or memory leaks was a brain melting start. Once the Human Player was manually moving tiles and working, I had my sandbox.  
+   Firstly the board rendering base code was already provided to us. I still did some modifications on it by introducing grid pointers and writing the merge logic. Once the Human Player was manually moving tiles and working, my base code was done.
 
 
 2. The Random Player: 
